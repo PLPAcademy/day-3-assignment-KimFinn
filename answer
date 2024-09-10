@@ -1,64 +1,43 @@
 
+Question 1.   What is the first step for installing Dart on a Windows machine?  
+   - Correct answer:   B) Download the Dart SDK    
 
-### #Dart & Flutter
+Question 2.   Which command verifies the Dart installation on macOS?  
+   - Correct answer:   D) dart --version    
 
-1. **First step for installing Dart on Windows:**
-   - Answer: **B) Download the Dart SDK**
-   - Explanation: You first need to download the Dart SDK before adding it to your system's PATH or running other commands.
+Question 3.   What is the next step after downloading and extracting the Flutter SDK on Linux?  
+   - Correct answer:   B) Update your PATH    
 
-2. **Command to verify Dart installation on macOS:**
-   - Answer: **D) dart --version**
-   - Explanation: Running `dart --version` is the typical way to verify the Dart version and check if it's installed correctly.
+Question 4.   What command is used to run a newly created Flutter app?  
+   - Correct answer:   C) flutter run    
 
-3. **Next step after downloading and extracting Flutter SDK on Linux:**
-   - Answer: **B) Update your PATH**
-   - Explanation: You need to update your system's PATH to include the Flutter SDK before using it.
+Question 5.   What is the first step to install Python on a Windows system?  
+   - Correct answer:   B) Download Python from the official website    
 
-4. **Command to run a newly created Flutter app:**
-   - Answer: **C) flutter run**
-   - Explanation: `flutter run` launches the Flutter app on a connected device or emulator.
+Question 6.   Which option should you ensure is checked during Python installation on Windows?  
+   - Correct answer:   C) Add Python to PATH    
 
-### #Python Installation
+Question 7.   How do you verify Python installation on any system?  
+   - Correct answer:   A) By running python --version    
 
-1. **First step to install Python on Windows:**
-   - Answer: **B) Download Python from the official website**
-   - Explanation: The first step is to download Python from its official website.
+Question 8.   What command is used to install pip on macOS and Linux?  
+   - Correct answer:   C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py    
 
-2. **Option to check during Python installation:**
-   - Answer: **C) Add Python to PATH**
-   - Explanation: Ensuring that Python is added to your PATH allows you to run Python from the command line.
+Question 9.   What is the purpose of a virtual environment in Python?  
+   - Correct answer:   C) To separate project dependencies and avoid conflicts    
 
-3. **Verifying Python installation:**
-   - Answer: **A) By running python --version**
-   - Explanation: This command displays the Python version and verifies that it’s installed correctly.
+Question 10.   What is the first step to install MySQL on Windows?  
+   - Correct answer:   B) Download MySQL Installer from the official website    
 
-4. **Command to install pip on macOS/Linux:**
-   - Answer: **C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py**
-   - Explanation: This command downloads and installs pip.
+Question 11.   What setup type should you choose for a custom MySQL installation?  
+   - Correct answer:   D) Custom    
 
-5. **Purpose of a virtual environment in Python:**
-   - Answer: **C) To separate project dependencies and avoid conflicts**
-   - Explanation: Virtual environments help to isolate dependencies for different projects.
+Question 12.   Which products should you select during the MySQL installation?  
+   - Correct answer:   A) MySQL Server, MySQL Workbench, and MySQL Shell    
 
-### #MySQL Installation
+Question 13.   What is the purpose of setting a root password during MySQL installation?  
+   - Correct answer:   B) To secure your MySQL installation with a super-secret password    
 
-1. **First step to install MySQL on Windows:**
-   - Answer: **B) Download MySQL Installer from the official website**
-   - Explanation: The first step is downloading the MySQL Installer.
-
-2. **Setup type for a custom MySQL installation:**
-   - Answer: **D) Custom**
-   - Explanation: Custom installation allows you to select specific components.
-
-3. **Products to select during MySQL installation:**
-   - Answer: **A) MySQL Server, MySQL Workbench, and MySQL Shell**
-   - Explanation: These products are needed for a typical MySQL development setup.
-
-4. **Purpose of setting a root password during MySQL installation:**
-   - Answer: **B) To secure your MySQL installation with a super-secret password**
-   - Explanation: Setting a root password protects access to the MySQL server.
-
-5. **How to manage your database after installing MySQL:**
-   - Answer: **B) Launch MySQL Workbench and connect to your MySQL Server**
-   - Explanation: MySQL Workbench is used to interact with your database.
+Question 14.   How do you begin managing your database after installing MySQL?  
+   - Correct answer:   B) Launch MySQL Workbench and connect to your MySQL Server    
 
